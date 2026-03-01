@@ -1,4 +1,4 @@
-# MRP & Production Optimization Tool 🚀
+# MRP & Production Optimization Tool
 
 ## Overview
 This project is a comprehensive desktop application developed with Python, designed to solve complex Material Requirements Planning (MRP) and Production Optimization problems. It transforms Bill of Materials (BOM) data into actionable production and purchasing schedules.
