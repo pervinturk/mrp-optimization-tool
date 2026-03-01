@@ -905,7 +905,7 @@ class MRPApp:
         for parent, child, qty, *_ in self.connections:
             x, y = self.node_coords.get(child, (0, 0))
     
-            # ✨ Değerleri doğrudan Entry'den al
+            # Değerleri doğrudan Entry'den al
             _, _, qty_entry, lead_entry = self.node_items[child]
             try:
                 qty_val = float(qty_entry.get())
