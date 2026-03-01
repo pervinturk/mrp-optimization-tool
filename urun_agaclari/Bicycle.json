@@ -1,0 +1,44 @@
+[
+    {
+        "parent": "Bicycle",
+        "child": "Wheel",
+        "qty": 2,
+        "lead_time": 2
+    },
+    {
+        "parent": "Bicycle",
+        "child": "Crank Assembly",
+        "qty": 1,
+        "lead_time": 2
+    },
+    {
+        "parent": "Wheel",
+        "child": "Spoke",
+        "qty": 86,
+        "lead_time": 3
+    },
+    {
+        "parent": "Wheel",
+        "child": "Tire",
+        "qty": 1,
+        "lead_time": 2
+    },
+    {
+        "parent": "Crank Assembly",
+        "child": "Sprocket",
+        "qty": 1,
+        "lead_time": 4
+    },
+    {
+        "parent": "Crank Assembly",
+        "child": "Crank",
+        "qty": 2,
+        "lead_time": 3
+    },
+    {
+        "parent": "Crank Assembly",
+        "child": "Pedal",
+        "qty": 2,
+        "lead_time": 3
+    }
+]
